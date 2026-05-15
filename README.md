@@ -36,3 +36,29 @@ The project was developed to create awareness about the nutritional importance o
 ## Developer
 
 Nisha Manjunath
+## Application Screenshots
+
+### Splash Screen
+![Splash Screen](1P.jpeg)
+
+### Home Screen
+![Home Screen](2P.jpeg)
+
+### Recipe Screen
+![Recipe Screen](3P.jpeg)
+
+### Recipe Details Screen
+![Recipe Details](4P.jpeg)
+
+### Health Benefits Screen
+![Health Benefits](5P.jpeg)
+
+### Mandi Watch Screen
+![Mandi Watch](6P.jpeg)
+
+### Direct Buy Screen
+![Direct Buy](7P.jpeg)
+
+### About Millets Screen
+![About Millets](8P.jpeg)
+
