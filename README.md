@@ -62,3 +62,15 @@ Nisha Manjunath
 ### About Millets Screen
 ![About Millets](8P.jpeg)
 
+
+## Future Enhancements
+
+- AI-based millet recommendations
+- Real-time market price updates
+- Multilingual language support
+- Cloud database integration
+- Online purchasing system
+
+- ## Project Architecture
+
+The application follows a simple modular architecture using Jetpack Compose for UI development. Different screens are connected using Navigation Compose. Static data for recipes, health benefits, millet prices, and product details are managed locally within the application. The project structure improves code readability, navigation handling, and UI management.
